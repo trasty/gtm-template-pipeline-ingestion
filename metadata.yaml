@@ -1,5 +1,5 @@
 homepage: "https://trasty.io"
 documentation: "https://github.com/trasty/trasty-pipeline-api/blob/master/api/tracker/README.md"
 versions:
-  - sha: "35c926664b5bfdd9a9ad2b01f2ff04d92666321d"
+  - sha: "b47bbdf22ab6afed1a22aab4f8659bdfa77b979b"
     changeNotes: "Initial release with X-Trasty-Visitor-IP support and structured e-commerce extraction."
